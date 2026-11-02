@@ -22,9 +22,9 @@ Just like `django-admin.py startproject` but better.
 
 ## Features
 
-- Always [`up-to-date`](https://github.com/thecodewall/legaldesk-django-starter/pulls?utf8=%E2%9C%93&q=is%3Apr%20author%3Aapp%2Fdependabot) with the help of [`@dependabot`](https://dependabot.com/)
+- Always [`up-to-date`](https://github.com/Diskovrme/secure-django-starter/pulls?utf8=%E2%9C%93&q=is%3Apr%20author%3Aapp%2Fdependabot) with the help of [`@dependabot`](https://dependabot.com/)
 - Supports latest `python3.13`
-- [`django-modern-rest`](https://github.com/thecodewall/legaldesk-django-starter) for building APIs
+- [`django-modern-rest`](https://github.com/Diskovrme/secure-django-starter) for building APIs
 - [`poetry@2`](https://github.com/python-poetry/poetry) for managing dependencies
 - [`mypy`](https://mypy.readthedocs.io) and [`django-stubs`](https://github.com/typeddjango/django-stubs) for static typing
 - [`pytest`](https://pytest.org/) and [`hypothesis`](https://github.com/HypothesisWorks/hypothesis) for unit tests
@@ -56,13 +56,13 @@ Then, create a project itself:
 
 ```bash
 
-cookiecutter gh:thecodewall/legaldesk-django-starter
+cookiecutter gh:Diskovrme/secure-django-starter
 ```
 
 
 ## Who is using this template?
 
-If you use our template, please add yourself or your company [in the list](https://github.com/wemake-services/wemake-django-template/wiki/Who-is-using-this-template).
+If you use our template, please add yourself or your company [in the list](https://github.com/Diskovrme/secure-django-starter/wiki/Who-is-using-this-template).
 
 Here's a [nice list of real-life open-source usages](https://github.com/search?q=wemake-django-template&type=Code)
 of this template.
